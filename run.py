@@ -5,7 +5,7 @@ from os import path
 
 sys.path.append(path.abspath('./'))
 # import config
-    
+
 for param in sys.argv[1:]:
     # comando para rodar rodas as suites de testes
     # comando a ser usado python3 run.py -web
@@ -13,13 +13,21 @@ for param in sys.argv[1:]:
         command = "robot -d ./evidencias ./automacao_web/testes "
     # comando para rodar a suite de testes de login
     # comando a ser usado python3 run.py -login
-    elif param == "-login":
+    elif param == "-login_web":
         command = "robot -d ./evidencias ./automacao_web/testes/login.robot "
     # exemplo de comando a ser criado com novas suites
     # alterar comando e o caminho
     # comando novo a ser usado será sempre python3 run.py e o nome desejado do comando
-    elif param == "-": 
+    elif param == "-":
         command = "robot -d ./evidencias ./automacao_web/testes/login.robot "
     # quando for necessario criar novos comenados pode ser usado o copiar e colar
     # copiar o elif e colocar o novo comando e caminho
+
+    # comandos para xecutar os testes de api
+    elif param == "-api":
+        command = "robot -d ./evidencias ./automacao_api/testes "
+
+    elif param == "-login_api":
+        command = "robot -d ./evidencias ./automacao_api/testes/login.robot "
+
 os.system(command)
