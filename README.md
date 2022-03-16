@@ -1,6 +1,6 @@
 # automacao-robot-framework
 
-Para utilizar o robot primeiro é necessário fazer as intalações que sao as seguinte:
+Para utilizar o robot primeiro é necessário fazer as instalações:
 
 pip install robotframework
 
