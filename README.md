@@ -2,7 +2,7 @@
 
 Para utilizar o robot primeiro é necessário fazer algumas instalações e a forma mais simples é usando:
 
-este comando irá instalar todas as libraryes que estão na pasta requirements.txt
+este comando irá instalar todas as libraryes que estão na pasta requirements.txt:
 pip install -r requirements.txt
 
 comandos utilizados para fazer automação mobile:
