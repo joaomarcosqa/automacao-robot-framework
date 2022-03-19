@@ -6,7 +6,7 @@ Documentation
 Library     SeleniumLibrary
 
 *** Variables ***
-${BROWSER}      firefox
+${BROWSER}      chrome
 
 *** Keywords ***
 
