@@ -13,21 +13,21 @@ Test Teardown             Fechar Aplicativo
 
 Test Case 01: Login com sucesso e-mail
     DADO que eu esteja no app
-    QUANDO inserir dados de login validos
-    ENTÃO devo efetuar o login com sucesso
+#     QUANDO inserir dados de login validos
+#     ENTÃO devo efetuar o login com sucesso
 
-Test Case 02: Login sem sucesso - validação genérica
-    DADO que eu esteja no app
-    QUANDO inserir dados de login invalidos
-    ENTÃO devo efetuar o login sem sucesso
+# Test Case 02: Login sem sucesso - validação genérica
+#     DADO que eu esteja no app
+#     QUANDO inserir dados de login genericos
+#     ENTÃO não irei efetuar login
 
-Test Case 03: Login sem sucesso - e-mail com inválido
-    DADO que eu esteja no app
-    QUANDO inserir dados de login invalidos
-    ENTÃO devo efetuar o login sem sucesso e-mail inválido
+# Test Case 03: Login sem sucesso - e-mail com inválido
+#     DADO que eu esteja no app
+#     QUANDO inserir dados de login email invalido
+#     ENTÃO não irei efetuar login
 
-Test Case 04: Login sem sucesso - e-mail e senha inválidos
-    DADO que eu esteja no app
-    QUANDO inserir dados de login invalidos
-    ENTÃO devo efetuar o login sem sucesso e-mail e senha inválida
+# Test Case 04: Login sem sucesso - e-mail e senha inválidos
+#     DADO que eu esteja no app
+#     QUANDO inserir dados de login invalidos
+#     ENTÃO não irei efetuar login
 
