@@ -2,7 +2,7 @@ Documentation
 ... Suíte específica para os testes de API
 
 *** Settings ***
-Resource                  ../compartilhado/recursos/compartilhado_renner/recursos_renner.robot
+Resource                  ../compartilhado/recursos/recursos_renner.robot
 Resource                  ../compartilhado/variaveis/variaveis_api.robot
 
 ***Test Cases***

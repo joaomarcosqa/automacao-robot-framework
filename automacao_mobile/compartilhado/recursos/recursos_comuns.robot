@@ -6,14 +6,16 @@ Documentation
 Library     AppiumLibrary
 
 *** Variables ***
-${BROWSER}      firefox
+${platform}               Android
+${device}                 emulator-5554
+${package}                com.trinks.m
+${activity}               crc643cb219e9c1e69672.SplashScreenActivity
+${automation_name}        Uiautomator2
 
 *** Keywords ***
 
-Abrir navegador
-    Open Browser        about:blank   ${BROWSER}
-    Maximize Browser Window
+Acessar Aplicativo
+    Open Application     http://localhost:4723/wd/hub	    platformName=${platform}    	deviceName=${device} 	appPackage=${package}  	appActivity=${activity}       automationName=${automation_name}
 
-Fechar navegador
-    Delete All Cookies
-    Close Browser
+Fechar Aplicativo
+    Close Application

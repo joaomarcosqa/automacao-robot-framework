@@ -4,7 +4,7 @@ Documentation
 *** Settings ***
 Library     RequestsLibrary
 Library     Collections
-Library     ${EXECDIR}/automacao_api/compartilhado/recursos/compartilhado_renner/parametros_renner.py
+Library     ${EXECDIR}/automacao_api/compartilhado/recursos/parametros_renner.py
 Library     JSONLibrary
 
 ***Keywords***

@@ -32,7 +32,7 @@ for param in sys.argv[1:]:
         command = "robot -d ./evidencias ./automacao_api/testes/login.robot "
 
     # comandos para rodar todas as suites de testes mobile:
-     # comandos para xecutar os testes mobile
+    # comandos para executar os testes mobile
     elif param == "-mobile":
         command = "robot -d ./evidencias ./automacao_mobile/testes "
 

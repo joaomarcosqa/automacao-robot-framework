@@ -1,12 +1,19 @@
-ocumentation
+Documentation
 ... Suíte com palavras chave de login do sistema
 
 *** Settings ***
 Library    AppiumLibrary
-Library    String
 Library    FakerLibrary       locale=pt_BR
 
 *** Keywords ***
-# Algumas keywords ja prontas basta preencher as variaveis e executar os casos de teste
-DADO que eu esteja no site
-    Go To       ${home_inicio}
+
+DADO que eu esteja no app
+    Capture Page Screenshot
+
+QUANDO inserir dados de login validos
+    Capture Page Screenshot
+
+ENTÃO devo efetuar o login com sucesso
+    Capture Page Screenshot
+
+    
