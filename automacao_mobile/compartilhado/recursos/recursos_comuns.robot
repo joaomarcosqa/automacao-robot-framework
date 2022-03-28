@@ -16,6 +16,8 @@ ${automation_name}        Uiautomator2
 
 Acessar Aplicativo
     Open Application     http://localhost:4723/wd/hub	    platformName=${platform}    	deviceName=${device} 	appPackage=${package}  	appActivity=${activity}       automationName=${automation_name}
+    
+
 
 Fechar Aplicativo
     Close Application

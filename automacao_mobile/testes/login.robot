@@ -7,7 +7,7 @@ Resource                  ../compartilhado/localizadores/login/variables.robot
 Resource                  ../compartilhado/recursos/recursos_comuns.robot
 Library                    AppiumLibrary
 Test Setup                Acessar Aplicativo
-Test Teardown             Fechar Aplicativo
+# Test Teardown             Fechar Aplicativo
 
 *** Test Case ***
 
