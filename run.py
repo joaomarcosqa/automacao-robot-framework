@@ -23,6 +23,7 @@ for param in sys.argv[1:]:
     # quando for necessario criar novos comenados pode ser usado o copiar e colar
     # copiar o elif e colocar o novo comando e caminho
 
+
     # comandos para rodar todas as suites de testes de api:
     # comandos para xecutar os testes de api
     elif param == "-api":

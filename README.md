@@ -37,8 +37,12 @@ Localizando elementos:
 
 Exemplo de xpath web:
 localizando por indice -> (//h1[text()="Transações"])[1]
-localizando por text -> //div[text()="Gerenciamento"]
+localizando por texto -> //div[text()="Gerenciamento"]
 localizando por classe -> //div[@class="swal2-popup swal2-modal swal2-show"]
 
 Exemplo de xpath mobile :
-//android.widget.Button[contains(@text,"PRÓXIMO")]
+localizando por texto -> //android.widget.Button[contains(@text,"PRÓXIMO")]
+localizando por id -> //android.widget.Button[contains(@resource-id,"PRÓXIMO")]
+localizando por mais de um elemento -> //android.widget.RadioButton[@resource-id='com.trinks.m:id/cadastro_radio_masculino' and @text="Masculino"]
+
+

@@ -23,3 +23,4 @@ ENTÃO realize o login renner
     Should Contain      ${JSON_STATUS}              SUCESSO: Cadastro realizado
     ${CONVERT} =        Convert To String           ${response.status_code}
     Should Contain      ${CONVERT}      200    
+    

@@ -11,3 +11,4 @@ Cenário 01: Efetuar login com sucesso
     DADO que eu me conecte ao WebService renner
     QUANDO realizar conexão com sucesso renner
     ENTÃO realize o login renner
+    

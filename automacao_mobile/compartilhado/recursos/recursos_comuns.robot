@@ -21,3 +21,4 @@ Acessar Aplicativo
 
 Fechar Aplicativo
     Close Application
+    
