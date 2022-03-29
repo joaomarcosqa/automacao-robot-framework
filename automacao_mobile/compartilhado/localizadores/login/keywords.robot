@@ -91,6 +91,28 @@ QUANDO inserir um email nao cadastrado
     Sleep                                           1
     Capture Page Screenshot 
 
+QUANDO inserir login e senha invalidos
+    Click Element                                   ${btn_menu_home}     
+    Sleep                                           2
+    Wait Until Page Contains Element                ${btn_home_entrar}
+    Click Element                                   ${btn_home_entrar}
+    Sleep                                           2
+    Wait Until Page Contains Element                ${campo_email}
+    Input Text                                      ${campo_email}                   ${email_nao_cadastrado}
+    Sleep                                           2
+    Wait Until Page Contains Element                ${campo_senha}
+    Input Text                                      ${campo_senha}                   ${senha_invalida}
+    Sleep                                           2
+    Wait Until Page Contains Element                ${btn_login_entrar}
+    Click Element                                   ${btn_login_entrar}
+    Sleep                                           1
+    Capture Page Screenshot 
+
+ENTÃO não irei efetuar login com dados invalidos
+    Sleep                                           2
+    Wait Until Page Contains Element                ${valida_email_nao_cadastrado}
+    Capture Page Screenshot
+    
 ENTÃO não irei efetuar login com email nao cadastrado
     Sleep                                           2
     Wait Until Page Contains Element                ${valida_email_nao_cadastrado}

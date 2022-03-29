@@ -26,8 +26,7 @@ Test Case 03: Login sem sucesso - e-mail nao cadastrado
     QUANDO inserir um email nao cadastrado
     ENTÃO não irei efetuar login com email nao cadastrado
 
-# Test Case 04: Login sem sucesso - e-mail e senha inválidos
-#     DADO que eu esteja no app
-#     QUANDO inserir dados de login invalidos
-#     ENTÃO não irei efetuar login
-
+Test Case 04: Login sem sucesso - e-mail e senha inválidos
+    DADO que eu esteja no app
+    QUANDO inserir login e senha invalidos
+    ENTÃO não irei efetuar login com dados invalidos

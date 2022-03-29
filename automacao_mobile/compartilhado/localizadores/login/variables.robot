@@ -8,6 +8,7 @@ ${email_invalido}                   testeqajoaogmail.com
 ${email_nao_cadastrado}             testeqajoao1@gmail.com
 ${campo_senha}                      //android.widget.EditText[contains(@text, "Senha")] 
 ${senha_valida}                     testeqa12
+${senha_invalida}                   13245
 ${btn_localizao_agr_nao}            com.trinks.m:id/tutorial_btn_agora_nao
 ${btn_localizao_permitir}            com.trinks.m:id/tutorial_btn_permitir
 ${btn_msg_agendamentos}             //android.widget.Button[contains(@text,"PRÓXIMO")]
