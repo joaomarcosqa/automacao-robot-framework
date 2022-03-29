@@ -19,6 +19,9 @@ npm install appium-uiautomator2-driver
 para localizar elementos utilizar o seguinte comando:
 uiautomatorviewer
 
+para poder utilizar o terminal do vs code livremente e executar qualquer comando por ele usar no powershell o comando:
+set-executionpolicy -uxecutionpolicy unrestricted 
+
 Existem diversos metodos para execução dos casos, deixei comentado na pasta run.py.
 
 Alguns metodos de execução:
