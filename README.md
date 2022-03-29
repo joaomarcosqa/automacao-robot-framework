@@ -27,13 +27,13 @@ Existem diversos metodos para execução dos casos, deixei comentado na pasta ru
 Alguns metodos de execução:
 
 Para executar todos os testes web utilizar:
-python3 run.py -web
+python run.py -web
 
 Para executar todos os testes de api utilizar:
-python3 run.py -api
+python run.py -api
 
 Para executar todos os testes mobile utilizar:
-python3 run.py -mobile
+python run.py -mobile
 
 
 Localizando elementos:
