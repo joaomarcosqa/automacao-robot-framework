@@ -31,6 +31,9 @@ for param in sys.argv[1:]:
 
     elif param == "-login_api":
         command = "robot -d ./evidencias ./automacao_api/testes/login.robot "
+        
+    if param == "-cadastro_api":
+        command = "robot -d ./evidencias ./automacao_api/testes/cadastro.robot "
 
     # comandos para rodar todas as suites de testes mobile:
     # comandos para executar os testes mobile
