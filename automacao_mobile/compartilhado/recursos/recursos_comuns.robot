@@ -1,24 +1,47 @@
 Documentation 
 ...Suíte com recursos comuns de sistema
-...Recursos usados em todos os cenários
+...Recursos usados em todos os cenários  
 
 *** Settings ***
 Library     AppiumLibrary
 
 *** Variables ***
-${platform}               Android
-${device}                 emulator-5554
-${package}                com.trinks.m
-${activity}               crc643cb219e9c1e69672.SplashScreenActivity
-${automation_name}        Uiautomator2
+#Android
+${URL}                    http://localhost:4723/wd/hub
+${deviceAndroid}          Android Emulator
+${apk}                    ${EXECDIR}/automacao_mobile/compartilhado/recursos/app/Petz-android.apk
+
+#Ios
+${deviceIOS}              iPhone 13 Pro Max
+${app}                    ${EXECDIR}/automacao_mobile/compartilhado/recursos/app/Petz-STG.app
 
 *** Keywords ***
 
-Acessar Aplicativo
-    Open Application     http://localhost:4723/wd/hub	    platformName=${platform}    	deviceName=${device} 	appPackage=${package}  	appActivity=${activity}       automationName=${automation_name}
-    
-
+Abrir Aplicativo
+    Set Appium Timeout  20
+    Run Keyword if  "${device}" == "android"
+    ...     Start Android
+    Run Keyword if  "${device}" == "ios"
+    ...     Start IOS
 
 Fechar Aplicativo
     Close Application
-    
+
+Start Android
+    Open Application    ${URL}
+    ...                 automationName=UIAutomator2
+    ...                 platformName=Android
+    ...                 deviceName=${deviceAndroid}
+    ...                 app=${apk}
+    ...                 udid=emulator-5554
+    ...                 autoGrantPermissions=true
+ 
+Start IOS
+    Open Application    ${URL}
+    ...                 automationName=XCUITest
+    ...                 platformName=ios
+    ...                 platformVersion=15.4
+    ...                 deviceName=${deviceIOS}
+    ...                 app=${app}
+    ...                 udid=10CE25C3-1E23-4884-8479-C93A85690116
+    ...                 autoGrantPermissions=true

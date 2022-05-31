@@ -7,7 +7,7 @@ Library     Collections
 Library     ${EXECDIR}/automacao_api/compartilhado/recursos/parametros.py
 Library     JSONLibrary
 
-***Keywords***         1
+***Keywords***
 
 Realizar login
     &{json_login}           Login

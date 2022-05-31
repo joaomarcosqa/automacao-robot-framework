@@ -9,3 +9,5 @@ robotframework-appiumlibrary
 robotframework-jsonlibrary
 
 robotframework-faker
+
+robotframework-jmeterlibrary

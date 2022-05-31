@@ -1,0 +1,201 @@
+
+/* Class = "UILabel"; text = "Esqueci minha senha"; ObjectID = "1hc-q2-71e"; */
+"1hc-q2-71e.text" = "Esqueci minha senha";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "3oH-6d-sp5"; */
+"3oH-6d-sp5.normalTitle" = "Continuar";
+
+/* Class = "UITextField"; placeholder = "   Senha"; ObjectID = "4fx-I0-tmV"; */
+"4fx-I0-tmV.placeholder" = "   Senha";
+
+/* Class = "UITextField"; placeholder = "   E-mail ou CPF"; ObjectID = "54B-ei-oGf"; */
+"54B-ei-oGf.placeholder" = "   E-mail ou CPF";
+
+/* Class = "UIButton"; normalTitle = "Termos e condições"; ObjectID = "5wI-An-JvL"; */
+"5wI-An-JvL.normalTitle" = "Termos e condições";
+
+/* Class = "UIButton"; normalTitle = "Esqueci a senha"; ObjectID = "6TV-Ml-Z9v"; */
+"6TV-Ml-Z9v.normalTitle" = "Esqueci a senha";
+
+/* Class = "UILabel"; text = "Para recuperar a sua senha informe o seu CPF."; ObjectID = "6nf-wr-elY"; */
+"6nf-wr-elY.text" = "Para recuperar a sua senha informe o seu CPF.";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "7fv-7K-MM0"; */
+"7fv-7K-MM0.normalTitle" = "ENTRAR";
+
+/* Class = "UIButton"; normalTitle = "Esqueci a senha"; ObjectID = "8Fz-gJ-Rn6"; */
+"8Fz-gJ-Rn6.normalTitle" = "Esqueci a senha";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "8k8-Xy-jTe"; */
+"8k8-Xy-jTe.normalTitle" = "ENTRAR";
+
+/* Class = "UITextField"; placeholder = "   E-mail ou CPF"; ObjectID = "9UV-ob-iPM"; */
+"9UV-ob-iPM.placeholder" = "   E-mail ou CPF";
+
+/* Class = "UILabel"; text = "Criar Senha"; ObjectID = "9te-uT-MFK"; */
+"9te-uT-MFK.text" = "Criar Senha";
+
+/* Class = "UILabel"; text = "Fazer login"; ObjectID = "AIT-LK-tVz"; */
+"AIT-LK-tVz.text" = "Fazer login";
+
+/* Class = "UITextField"; placeholder = "DDD + Celular "; ObjectID = "AML-of-xkw"; */
+"AML-of-xkw.placeholder" = "DDD + Celular ";
+
+/* Class = "UITextField"; placeholder = "Nome *"; ObjectID = "BDk-Tg-O2w"; */
+"BDk-Tg-O2w.placeholder" = "Nome *";
+
+/* Class = "UIButton"; normalTitle = "Criar Conta"; ObjectID = "DHd-6D-y0r"; */
+"DHd-6D-y0r.normalTitle" = "Criar Conta";
+
+/* Class = "UILabel"; text = "Para acessar a sua conta, faça o seu login"; ObjectID = "Dfr-4Q-mL1"; */
+"Dfr-4Q-mL1.text" = "Para acessar a sua conta, faça o seu login";
+
+/* Class = "UILabel"; text = "Para prosseguir faça seu login"; ObjectID = "HCr-0O-axZ"; */
+"HCr-0O-axZ.text" = "Para prosseguir faça seu login";
+
+/* Class = "UILabel"; text = "lojavirtual@petz.com.br"; ObjectID = "HyN-qF-hv5"; */
+"HyN-qF-hv5.text" = "lojavirtual@petz.com.br";
+
+/* Class = "UILabel"; text = "Ainda não tem conta?"; ObjectID = "KEV-ke-K4n"; */
+"KEV-ke-K4n.text" = "Ainda não tem conta?";
+
+/* Class = "UITextField"; placeholder = "   Senha"; ObjectID = "Ksb-cv-QG1"; */
+"Ksb-cv-QG1.placeholder" = "   Senha";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MN5-E7-5wI"; */
+"MN5-E7-5wI.text" = "Label";
+
+/* Class = "UILabel"; text = "Ainda não tem conta?"; ObjectID = "MiW-sJ-r12"; */
+"MiW-sJ-r12.text" = "Ainda não tem conta?";
+
+/* Class = "UILabel"; text = "CPF já cadastrado."; ObjectID = "NVc-QB-Bx5"; */
+"NVc-QB-Bx5.text" = "CPF já cadastrado.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nsf-71-kPr"; */
+"Nsf-71-kPr.text" = "Label";
+
+/* Class = "UILabel"; text = "Esqueci minha senha"; ObjectID = "O9b-wG-ve3"; */
+"O9b-wG-ve3.text" = "Esqueci minha senha";
+
+/* Class = "UITextField"; placeholder = "    Nova senha"; ObjectID = "PTl-vJ-5tu"; */
+"PTl-vJ-5tu.placeholder" = "    Nova senha";
+
+/* Class = "UILabel"; text = "Email já cadastrado para outro CPF."; ObjectID = "PcZ-jf-htV"; */
+"PcZ-jf-htV.text" = "Email já cadastrado para outro CPF.";
+
+/* Class = "UILabel"; text = "1. Faça seu login"; ObjectID = "RDG-Q4-kr9"; */
+"RDG-Q4-kr9.text" = "1. Faça seu login";
+
+/* Class = "UILabel"; text = "(11) 3434-6980"; ObjectID = "St2-Gu-M4a"; */
+"St2-Gu-M4a.text" = "(11) 3434-6980";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "T7J-EL-bEZ"; */
+"T7J-EL-bEZ.normalTitle" = "Continuar";
+
+/* Class = "UITextField"; placeholder = "DDD + Telefone"; ObjectID = "Uhb-Rb-PZ7"; */
+"Uhb-Rb-PZ7.placeholder" = "DDD + Telefone";
+
+/* Class = "UIButton"; normalTitle = "concordo com os"; ObjectID = "UiC-cg-Ym2"; */
+"UiC-cg-Ym2.normalTitle" = "concordo com os";
+
+/* Class = "UILabel"; text = "Contate nosso SAC"; ObjectID = "VJg-yn-VHR"; */
+"VJg-yn-VHR.text" = "Contate nosso SAC";
+
+/* Class = "UITextField"; placeholder = "   Senha"; ObjectID = "VT7-rv-CoR"; */
+"VT7-rv-CoR.placeholder" = "   Senha";
+
+/* Class = "UIButton"; normalTitle = "Cadastre-se"; ObjectID = "Vnv-E1-ggf"; */
+"Vnv-E1-ggf.normalTitle" = "Cadastre-se";
+
+/* Class = "UITextField"; placeholder = "Data de Nascimento"; ObjectID = "XSg-Hj-VbZ"; */
+"XSg-Hj-VbZ.placeholder" = "Data de Nascimento";
+
+/* Class = "UILabel"; text = "Esqueci minha senha"; ObjectID = "XTJ-rI-gSc"; */
+"XTJ-rI-gSc.text" = "Esqueci minha senha";
+
+/* Class = "UILabel"; text = "Alteração realizada com sucesso"; ObjectID = "Xis-Nr-sky"; */
+"Xis-Nr-sky.text" = "Alteração realizada com sucesso";
+
+/* Class = "UIButton"; normalTitle = "Cadastre-se"; ObjectID = "YfK-r6-4ki"; */
+"YfK-r6-4ki.normalTitle" = "Cadastre-se";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "a91-Os-qkZ"; */
+"a91-Os-qkZ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "   Informe seu CPF"; ObjectID = "ayu-JW-dyR"; */
+"ayu-JW-dyR.placeholder" = "   Informe seu CPF";
+
+/* Class = "UITextField"; placeholder = "E-mail *"; ObjectID = "b2R-Rm-fsW"; */
+"b2R-Rm-fsW.placeholder" = "E-mail *";
+
+/* Class = "UIButton"; normalTitle = "Ainda não tem conta? Clique aqui."; ObjectID = "bBK-MW-DII"; */
+"bBK-MW-DII.normalTitle" = "Ainda não tem conta? Clique aqui.";
+
+/* Class = "UITextField"; placeholder = "CPF *"; ObjectID = "bPd-4n-5ge"; */
+"bPd-4n-5ge.placeholder" = "CPF *";
+
+/* Class = "UIButton"; normalTitle = "Começar sem login"; ObjectID = "czE-vT-63L"; */
+"czE-vT-63L.normalTitle" = "Começar sem login";
+
+/* Class = "UIButton"; normalTitle = "Esqueci a senha"; ObjectID = "d2n-qJ-C1Q"; */
+"d2n-qJ-C1Q.normalTitle" = "Esqueci a senha";
+
+/* Class = "UITextField"; placeholder = "    Confirme a nova senha"; ObjectID = "dLP-SX-IMA"; */
+"dLP-SX-IMA.placeholder" = "    Confirme a nova senha";
+
+/* Class = "UITextField"; placeholder = "   E-mail ou CPF"; ObjectID = "dnK-ey-DTu"; */
+"dnK-ey-DTu.placeholder" = "   E-mail ou CPF";
+
+/* Class = "UIButton"; normalTitle = "Alterar senha"; ObjectID = "e0x-KP-nat"; */
+"e0x-KP-nat.normalTitle" = "Alterar senha";
+
+/* Class = "UITextField"; placeholder = "Confirmar senha *"; ObjectID = "eTe-Wm-Nqe"; */
+"eTe-Wm-Nqe.placeholder" = "Confirmar senha *";
+
+/* Class = "UILabel"; text = "Ainda não tem conta?"; ObjectID = "fAG-Be-Qlg"; */
+"fAG-Be-Qlg.text" = "Ainda não tem conta?";
+
+/* Class = "UIButton"; normalTitle = "Cadastre-se"; ObjectID = "g95-a5-xKl"; */
+"g95-a5-xKl.normalTitle" = "Cadastre-se";
+
+/* Class = "UILabel"; text = "Quero receber o código por:"; ObjectID = "j0G-ka-7yK"; */
+"j0G-ka-7yK.text" = "Quero receber o código por:";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "l47-NX-k9V"; */
+"l47-NX-k9V.normalTitle" = "ENTRAR";
+
+/* Class = "UITextField"; placeholder = "   Senha"; ObjectID = "lVk-uV-hT0"; */
+"lVk-uV-hT0.placeholder" = "   Senha";
+
+/* Class = "UILabel"; text = "2. Cadastre seu Pet"; ObjectID = "m8Q-5N-E82"; */
+"m8Q-5N-E82.text" = "2. Cadastre seu Pet";
+
+/* Class = "UITextField"; placeholder = "    Digite o código"; ObjectID = "maq-eM-JVa"; */
+"maq-eM-JVa.placeholder" = "    Digite o código";
+
+/* Class = "UIButton"; normalTitle = "Esqueci a senha"; ObjectID = "nIj-5Y-tId"; */
+"nIj-5Y-tId.normalTitle" = "Esqueci a senha";
+
+/* Class = "UILabel"; text = "Termos e Condições"; ObjectID = "nVq-i5-HHb"; */
+"nVq-i5-HHb.text" = "Termos e Condições";
+
+/* Class = "UITextField"; placeholder = "   E-mail ou CPF"; ObjectID = "nXE-Op-m9z"; */
+"nXE-Op-m9z.placeholder" = "   E-mail ou CPF";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "qmr-1t-V0t"; */
+"qmr-1t-V0t.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "sfU-Wj-0Ox"; */
+"sfU-Wj-0Ox.normalTitle" = "ENTRAR";
+
+/* Class = "UILabel"; text = "Está com dificuldades de recuperar sua senha? \nEntre em contato com o SAC da Petz."; ObjectID = "smb-LH-mQM"; */
+"smb-LH-mQM.text" = "Está com dificuldades de recuperar sua senha? \nEntre em contato com o SAC da Petz.";
+
+/* Class = "UITextField"; placeholder = "Senha *"; ObjectID = "t3A-mx-rCI"; */
+"t3A-mx-rCI.placeholder" = "Senha *";
+
+/* Class = "UILabel"; text = "Para começar siga os passos abaixo"; ObjectID = "tNQ-ff-psi"; */
+"tNQ-ff-psi.text" = "Para começar siga os passos abaixo";
+
+/* Class = "UILabel"; text = "3. Comece a passear"; ObjectID = "x9R-VW-Yq2"; */
+"x9R-VW-Yq2.text" = "3. Comece a passear";
