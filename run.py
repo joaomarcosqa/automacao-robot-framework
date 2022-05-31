@@ -73,3 +73,4 @@ for param in sys.argv[1:]:
         command = "robot -d ./logs -v device:ios ./automacao_mobile/testes_ios/meus_agendamentos.robot"
 
 os.system(command)
+

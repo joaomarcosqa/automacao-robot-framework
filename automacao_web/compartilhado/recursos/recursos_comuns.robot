@@ -35,4 +35,3 @@ Scroll Item
     Wait Until Element Is Visible    ${identifier}                     30
     ${position}                      Get Vertical Position             ${identifier}
     Execute Javascript               window.scrollTo(${position},0)    
-    

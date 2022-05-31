@@ -16,3 +16,4 @@ class EmailLib(object):
             "https://www.1secmail.com/api/v1/?action=genRandomMailbox&count=1").json()[0]
         print("EMAIL CRIADO: "+email)
         return email
+    

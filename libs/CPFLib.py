@@ -16,3 +16,4 @@ class CPFLib(object):
         data = "acao=gerar_cpf&pontuacao=S&cpf_estado="
         cpf = post(url, headers=headers, data=data).text
         return str(cpf)
+

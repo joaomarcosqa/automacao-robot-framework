@@ -47,5 +47,3 @@ Exemplo de xpath mobile :
 localizando por texto -> //android.widget.Button[contains(@text,"PRÓXIMO")]
 localizando por id -> //android.widget.Button[contains(@resource-id,"PRÓXIMO")]
 localizando por mais de um elemento -> //android.widget.RadioButton[@resource-id='com.trinks.m:id/cadastro_radio_masculino' and @text="Masculino"]
-
-
