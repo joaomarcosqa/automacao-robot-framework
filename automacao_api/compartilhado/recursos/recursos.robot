@@ -35,3 +35,4 @@ Não realizar cadastro
     Should Contain      ${JSON_STATUS}              CPF ou CNPJ JÁ EXISTE
     ${CONVERT} =        Convert To String           ${response.status_code}
     Should Contain      ${CONVERT}      200
+    
